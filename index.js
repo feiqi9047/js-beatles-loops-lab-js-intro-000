@@ -19,6 +19,6 @@ while (array.length > i){
 function iLoveTheBeatles(n){
   var array = []
   do {
-    array.push("I love the Beatles")} while{  
+    array.push("I love the Beatles!")} while{  
       
 }
